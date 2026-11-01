@@ -3,7 +3,6 @@ uid: e9fe0bec-38ec-4699-93cf-b7d036fb84a8
 date created: 2025-07-19
 date modified: 2025-10-07
 aliases:
-  - 个人智能体
   - Personal Agent
 ---
 #  💡Summary  
@@ -14,6 +13,7 @@ aliases:
 
 ## 基建
 
+Context 
 
 |              |     |
 | ------------ | --- |
