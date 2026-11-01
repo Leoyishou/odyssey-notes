@@ -4,11 +4,11 @@ uid: 21bab621-d415-4ca0-ad5c-92c612d2defd
 
 ## Iphone
 
-1. iPhone 镜像
-2. **Xcode 方案（XCUITest / WebDriverAgent）：**
-	1. 用 Xcode 把一个测试 App（WebDriverAgent）签名后装到 iPhone 上⁠[![](https://img.notionusercontent.com/ext/https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dgithub.com%26sz%3D64/raw?imgBuildSrc=createUnsignedImageVariantURL)](https://github.com/ykdojo/iphone-control)⁠。
+1. 方案一：iPhone 镜像
+2. 方案二：**Xcode 方案（XCUITest / WebDriverAgent）：**
+	1. 用 Xcode 把一个测试 App（WebDriverAgent）签名后装到 iPhone 上
 	2. 它以 UI 测试的身份运行，用的是苹果的 XCUITest 框架，所以有权限读取界面元素、截屏，还能模拟点击、滑动和输入。
-	3. 它在手机上开一个本地服务，电脑上的 Agent 通过 Appium 给它发指令⁠[![](https://img.notionusercontent.com/ext/https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dgithub.com%26sz%3D64/raw?imgBuildSrc=createUnsignedImageVariantURL)](https://github.com/ykdojo/iphone-control)⁠。
+	3. 它在手机上开一个本地服务，电脑上的 Agent 通过 Appium 给它发指令
 
 ## 安卓
 
