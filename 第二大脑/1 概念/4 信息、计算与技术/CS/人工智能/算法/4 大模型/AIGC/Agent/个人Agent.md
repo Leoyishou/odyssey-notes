@@ -12,6 +12,15 @@ aliases:
 > 一句话说清楚
 > 
 
+## 基建
+
+
+|              |     |
+| ------------ | --- |
+| iPhone Use   | ✅   |
+| 安卓 Use       | ✅   |
+| Computer Use | ✅   |
+
 
 ```
   飞书 ──WebSocket──> Claude (调度 session，固定不变)
