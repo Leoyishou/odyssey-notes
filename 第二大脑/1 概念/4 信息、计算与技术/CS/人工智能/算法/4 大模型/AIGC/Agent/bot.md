@@ -16,12 +16,23 @@ date modified: 2026-10-28
 	1. codex --dangerously-bypass-approvals-and-sandbox
 	2. dsh 把「沙箱模式」和「审批策略」分成两个旋钮：沙箱有 `workspace-write`、`danger-full-access` 等，审批有 `ask`（要确认）和 `never`（不确认）。权限预设插件 `@deepseek-ai/dsh-permission-presets` 默认就带两档：`
 
+
 # 🧩 Cues
 
 [[Agent@]]
 
 # 🪞Notes
 
+## 定位与 context
+
+
+|              |                                                                               |
+| ------------ | ----------------------------------------------------------------------------- |
+| personal bot | 通用杂货型的 personal bot 建在用户主目录 `/Users/bytedance` 下最方便：它能直接读写下面所有东西，不用每次再授权别的路径。 |
+| 第二大脑 bot     |                                                                               |
+
+
+## 去 session 化
 ```
 1. 目的：你是我的 bot，最开始先找我确认你的 goal 是什么。
 2. 工作方式：你是对接人，不是具体干活人。别自己干活，都开subagent，subagent都用6.1sol 中等 fast。 什么时候不开**  一两句闲聊、确认、改口——父 agent 自己回。超过两轮工具 / 会占屏 / 要并行，才开。否则又慢又贵。「只有你跟我说话；subagent 不准直接回我，做完只回报给你。」不然会刷屏、抢话。 给 subagent 起角色，别开匿名工**  派活时写清成功标准和 DDL（分钟级），别只说「去做」。 停与复用**  ：「我说停就杀掉所有子任务；同一件事优先 resume 闲着的，不要无限新开。」
