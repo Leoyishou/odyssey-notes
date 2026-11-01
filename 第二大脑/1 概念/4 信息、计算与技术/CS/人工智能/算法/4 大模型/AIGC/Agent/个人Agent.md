@@ -20,6 +20,9 @@ aliases:
 | iPhone Use   | ✅   |
 | 安卓 Use       | ✅   |
 | Computer Use | ✅   |
+| FFmpeg       |     |
+| ASR          |     |
+| TTS          |     |
 
 
 ```
