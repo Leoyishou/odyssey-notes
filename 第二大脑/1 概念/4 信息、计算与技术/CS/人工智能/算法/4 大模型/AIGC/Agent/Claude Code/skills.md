@@ -1,6 +1,15 @@
 ---
 uid: c5b29969-ef7c-4a68-9b49-a100d614d747
 ---
+
+#  💡Summary  
+
+> [!Info]
+> 一个好的 SKill，半衰期特别短，往往只对上一代模型管用。
+> 
+
+
+
 [[superpower]]
 [[phone Use]]
 
