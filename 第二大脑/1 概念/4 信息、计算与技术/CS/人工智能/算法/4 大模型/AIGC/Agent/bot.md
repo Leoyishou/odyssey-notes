@@ -6,7 +6,9 @@ date modified: 2026-10-28
 #  💡Summary  
 
 > [!Info]
-> 一句话说清楚
+> - relay
+> - 多设备互动
+> - 去 Session 化（bot）
 > 
 
 1. 感觉 bot 的本质是 agent上面封装一层记忆系统，实现不切 session 的无限上下文的单 agent 的使用体验
