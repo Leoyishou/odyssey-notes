@@ -6,14 +6,22 @@ date modified: 2026-10-30
 #  💡Summary  
 
 > [!Info]
-> 1. macOS 上，任何程序只要想**模拟点击和键盘输入**，就必须先拿到"辅助功能"权限；想**截屏**，就必须拿到"屏幕录制"权限。
-> 2. 原生 GUI 模型 > 写代码 > 无障碍树 > OCR
+>
+> 1. 上限：原生 GUI 模型 > 写代码 > 无障碍树 > OCR
+> 2. 在 Mac 上让 agent 操作应用时，可以按这个顺序：
+> 	1. **应用有脚本接口或命令行**：让 agent 写 AppleScript 或 Shell，最稳。
+> 	2. **没有接口**：用 AppleScript 的 System Events，或者 agent-desktop，读界面结构来> 操作。
+> 	3. **界面结构也读不到**：最后再用看截图的方案（Codex Computer Use、UI-TARS）。
 > 
 
 
-1. codex的 computer use 支持几个并发？
-2. 用独立命令行 codex exec 可以实现 computer use 吗？可以，而且已经在用了。现在这轮即创补查，就是 Mac Studio Bot 用 `cx` 提交的命令行 Codex 任务，走的是 Computer Use。22 时 12 分它已经登录进了即创首页，补查进度目前是 0/5。
-3. `cliclick` 是一个很小的 Mac 命令行工具（Homebrew 一行装），能用命令模拟鼠标移动、点击、拖动，还能按住键盘修饰键，比如按住 ⌘ 再拖。
+ 2. macOS 上，任何程序只要想**模拟点击和键盘输入**，就必须先拿到"辅助功能"权限；想**截屏**，就必须拿到"屏幕录制"权限。
+
+
+
+3. codex的 computer use 支持几个并发？
+4. 用独立命令行 codex exec 可以实现 computer use 吗？可以，而且已经在用了。现在这轮即创补查，就是 Mac Studio Bot 用 `cx` 提交的命令行 Codex 任务，走的是 Computer Use。22 时 12 分它已经登录进了即创首页，补查进度目前是 0/5。
+5. `cliclick` 是一个很小的 Mac 命令行工具（Homebrew 一行装），能用命令模拟鼠标移动、点击、拖动，还能按住键盘修饰键，比如按住 ⌘ 再拖。
 # 🧩 Cues
 
 
