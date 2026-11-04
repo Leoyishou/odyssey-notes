@@ -160,4 +160,19 @@ Proactive = [[定时任务]] + [[事件]]驱动
 - 同事和上下级沟通记录，以及要跟进的人和事
 - 公司内部系统账号和权限清单（凭据放 1Password「For Agent」库）
 
-这一行写进表里的话，我建议把「工作替身」和「工作替身(即创AI)」合成一行，你觉得呢？
+## phone bot
+已读取两台手机并整理成完整表格：
+
+|手机|应用数量|
+|---|---|
+|iPhone|188 个非 Apple 应用，含 8 个开发测试应用|
+|安卓|112 个可启动应用，含 21 个系统／预装应用|
+
+另外单独列出了 iPhone 的 60 个 Apple 应用及系统组件、安卓的 7 个后台辅助包。
+
+**交付物**
+
+- [打开可搜索的 App 对照表](/Users/liuyishou/Library/Application%20Support/CindyGlobal/owners/7a1f8213ebf8933b94c1/bots/bot_1793703421321_yj6h9v/workspace/documents/2026-11-04-两台手机App对照表.html)
+- [下载 Excel 完整清单](/Users/liuyishou/Library/Application%20Support/CindyGlobal/owners/7a1f8213ebf8933b94c1/bots/bot_1793703421321_yj6h9v/workspace/documents/2026-11-04-两台手机App对照表.xlsx)
+
+表内可分别查看 iPhone、安卓和两台都有的 App；已检查手机显示、搜索和表格数据。
