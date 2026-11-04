@@ -176,3 +176,21 @@ Proactive = [[定时任务]] + [[事件]]驱动
 - [下载 Excel 完整清单](/Users/liuyishou/Library/Application%20Support/CindyGlobal/owners/7a1f8213ebf8933b94c1/bots/bot_1793703421321_yj6h9v/workspace/documents/2026-11-04-两台手机App对照表.xlsx)
 
 表内可分别查看 iPhone、安卓和两台都有的 App；已检查手机显示、搜索和表格数据。
+
+
+
+
+## 本地与云
+
+**适合继续留在 Grok Bot**（主要是定时巡检、读写飞书和滴答、跨 bot 派单）
+
+- 管理 bot、Mission Control、调度 Bot、CEO 的各类例行巡检
+- 个人财务、公司财务、战投、健康、生活助理、钢琴老师、学习这类聊天加记账或提醒的 bot
+- 内容 bot、自媒体与信息、私域运营、网店、设计 bot（主要靠搜索和写作）
+
+**适合试 Cindy**（要操作你本机和手机，或要长时间跑代码）
+
+- Mac Studio Bot、MacBook 那条线：直接操作 Mac、浏览器、1Password，不用再靠 cx 和 mbrun 中转
+- 努比亚、iPhone Bot：手机上的 App 操作
+- 工作替身、工作替身(即创AI)：飞书客户端和浏览器里的工作操作
+- 调研 bot、调研 bot 2、通宵创业调研：长时间抓取和写代码，不吃 Grok Bot 每周额度
