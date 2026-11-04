@@ -36,7 +36,7 @@ Proactive = [[定时任务]] + [[事件]]驱动
 # 🧩 Cues
 
 [[Agent@]]
-
+[[cindy]]
 # 🪞Notes
 
 ## 定位与 context
