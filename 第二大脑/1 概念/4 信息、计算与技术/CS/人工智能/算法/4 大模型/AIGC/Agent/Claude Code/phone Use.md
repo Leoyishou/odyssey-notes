@@ -2,6 +2,21 @@
 uid: 21bab621-d415-4ca0-ad5c-92c612d2defd
 ---
 
+
+#  💡Summary  
+
+> [!Info]
+> 一句话说清楚
+> 
+
+
+
+# 🧩 Cues
+
+[[模拟器]]
+
+# 🪞Notes
+
 ## iphone
 
 1. 方案一：iPhone 镜像
