@@ -37,6 +37,9 @@ Proactive = [[定时任务]] + [[事件]]驱动
 
 [[Agent@]]
 [[cindy]]
+[[上下文压缩]]
+
+
 # 🪞Notes
 
 ## 定位与 context
