@@ -4,6 +4,10 @@ date modified: 2025-10-04
 uid: 656a8baa-58d9-4b8f-a2ae-772c6a2a7f04
 ---
 
+Cindy 里 MCP 的机制是两层：先把服务器加到 Cindy 里，再逐个伙伴决定挂不挂上。加进 Cindy 不等于所有伙伴都能用。
+
+
+
 1. 所以 tool 的本质都是api+提示词，区别是mcp进程常驻，cli不常驻
 2. MCP 常驻的好处：能保持状态。比如 OAuth token 缓存在内存里，不用每次重新认证。CLI 每次冷启动，要么从文件读 token，要么重新走认证流程。
 

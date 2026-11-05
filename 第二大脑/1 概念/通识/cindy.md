@@ -26,3 +26,5 @@ date modified: 2026-11-04
 
 
 # 🪞Notes
+
+1. Cindy 里 MCP 的机制是两层：先把服务器加到 Cindy 里，再逐个伙伴决定挂不挂上。加进 Cindy 不等于所有伙伴都能用。
