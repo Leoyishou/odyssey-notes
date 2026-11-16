@@ -27,7 +27,7 @@ date modified: 2026-10-30
 - **事实（world）：** 关于外部世界的客观信息，和 agent 本身无关。例如「Leonard 的主力号码是 177 开头」「RDS 基础款每年约 228 元」。
 - **经历（experience）：** agent 自己做过、发生在自己身上的事，是第一人称的。例如「我 22 时 52 分把 18 条写进了 grok-bot::research」「我第一次冷启动测试因为证书缺失失败了」。
 
-**每一路召回的都是同一种东西：记忆单元（fact）。** 每个 fact 带一个 `type`，取值是 `world`、`experience` 或 `observation`。四路检索只是“用什么方式找”不同，找出来的东西类型一样。⁠[![](https://img.notionusercontent.com/ext/https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dhindsight.vectorize.io%26sz%3D64/raw?imgBuildSrc=createUnsignedImageVariantURL)](https://hindsight.vectorize.io/developer/api/recall)⁠
+**每一路召回的都是同一种东西：记忆单元（fact）。** 每个 fact 带一个 `type`，取值是 `world`、`experience` 或 `observation`。四路检索只是“用什么方式找”不同，找出来的东西类型一样。⁠[](https://hindsight.vectorize.io/developer/api/recall)⁠
 
 **三种记忆类型**
 

@@ -9,6 +9,8 @@ uid: 713e9f57-9bca-4847-900f-167bfbdf89dd
 
 ## Discover（发现）
 
+
+
 这是一个内置的新闻信息流功能，展示最新的新闻文章和内容。用户可以点击感兴趣的文章，直接在Perplexity界面内阅读[4]。
 
 在右侧弹窗中显示 "Make it yours"（个性化定制），允许用户选择感兴趣的主题，包括：
@@ -49,12 +51,21 @@ uid: 713e9f57-9bca-4847-900f-167bfbdf89dd
 - 方便后续查找和管理研究资料[4][5]
 
 Citations:  
+
 [1]https://pplx-res.cloudinary.com/image/upload/v1732517798/user_uploads/kaesldimb/image.jpg  
+
 [2]https://www.jeffsu.org/perplexity-a-comprehensive-guide/  
+
 [3]https://en.wikipedia.org/wiki/Perplexity_(company)  
+
 [4]https://www.uxdesigninstitute.com/blog/perplexity-ai-and-design-process/  
+
 [5]https://www.geeky-gadgets.com/understanding-perplexity-spaces-ai-tool/  
+
 [6]https://businesslibrary.uflib.ufl.edu/perplexitytips  
+
 [7]https://www.perplexity.ai/hub/blog/getting-started-with-perplexity  
+
 [8]https://www.perplexity.ai/hub/blog/introducing-internal-knowledge-search-and-spaces  
+
 [9]https://www.reddit.com/r/perplexity_ai/comments/1dmcf20/what_are_some_use_cases_for_perplexity_ai/

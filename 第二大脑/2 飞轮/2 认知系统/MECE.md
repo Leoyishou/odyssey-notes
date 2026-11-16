@@ -9,3 +9,8 @@ MECE，是 Mutually Exclusive Collectively Exhaustive，中文意思是 " 相互
 感觉就行数学集合里面的完备性一样。几个自己的并集，构成完备的全集。
 
 是一个值得养成的思维习惯。将待解决的问题，进行 MECE 的分类，才能更好地思考并逐个击破。
+
+
+
+
+
