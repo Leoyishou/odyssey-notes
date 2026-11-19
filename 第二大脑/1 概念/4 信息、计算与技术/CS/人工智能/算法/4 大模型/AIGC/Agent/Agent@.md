@@ -28,20 +28,21 @@ AI 生成的一些消息，其实是人和 ai 都要去去消费的。如果人�
 ## 一、Agent 核心要素
 
 1. 环境、[[sandbox]]、[[权限]]
-2. [[LLM大模型]]
+2. [[Context]]
+3. [[LLM大模型]]
 	1. Ultrafast 模式。官方文档说它的生成速度最高是标准模式的 4.5 倍，但要消耗 6 倍额度。每月 500 美元的 Pro 两个模型都能开，200 美元的 Pro 目前只能在 Sol 上开。
-3. 循环、[[harness]]、[[magpie]]
+4. 循环、[[harness]]、[[magpie]]
 	1. [[goal driven]]
 	2. [[ralph loop]]
-4. [[Agent tools]]
+5. [[Agent tools]]
 	1. [[MCP]]
 	2. [[browse Use]]
 	3. [[phone Use]]
-5. [[记忆(Agent的)]]
-6. [[多Agent，multi agents]]
+6. [[记忆(Agent的)]]
+7. [[多Agent，multi agents]]
 	1. [[SubAgent]]
-7. [[Agent IM]]交互，多端同步，交互流程，通信流程还是个挺复杂的工程和产品问题
-8. **一个任务**中途崩溃后怎么接着做[[Pi Durable]]
+8. [[Agent IM]]交互，多端同步，交互流程，通信流程还是个挺复杂的工程和产品问题
+9. **一个任务**中途崩溃后怎么接着做[[Pi Durable]]
 
 
 ## 二、Harness 最终一定是中心化的
