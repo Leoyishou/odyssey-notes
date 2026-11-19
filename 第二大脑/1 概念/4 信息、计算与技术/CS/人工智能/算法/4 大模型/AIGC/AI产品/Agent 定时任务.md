@@ -18,7 +18,7 @@ date modified: 2025-10-07
 | [[crontab]]（linux） | 本地os            | 是            | 有      | 无    |
 | [[launchd]]（macOS） | 本地os            | 是            | 有      | 有    |
 | /schedule          | claude提供的云端操作系统 | 是            | 无      | 有    |
-![CleanShot 2026-04-04 at 16.56.25@2x.png|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/CleanShot%202026-04-04%20at%2016.56.25%402x.png)
+![CleanShot 2026-04-04 at 16.56.25@2x.png\|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/CleanShot%202026-04-04%20at%2016.56.25%402x.png)
 
 要我帮你配一个本地定时任务吗？说下你想定时跑什么。
 

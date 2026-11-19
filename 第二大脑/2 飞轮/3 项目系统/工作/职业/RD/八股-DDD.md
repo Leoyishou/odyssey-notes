@@ -82,7 +82,7 @@ uid: 54816efd-d1b7-4063-918c-70575a5785cf
 | 问题            | 关键词/关键概念                                                                                            |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | 什么是实体，什么是值对象？ | **实体Entity**：有唯一标识ID、生命周期、可变状态、如User/Order<br>**值对象Value Object**：无标识、不可变、通过属性判等、可替换、如Money/Address |
-![image.png|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2026%2F02%2F01%2F00-26-46-6dae62d07bdfb8359d3589f8ea7f5430-202602010026525-979425.png)
+![image.png\|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2026%2F02%2F01%2F00-26-46-6dae62d07bdfb8359d3589f8ea7f5430-202602010026525-979425.png)
 
 
 ## 什么是聚合，什么是聚合根？
@@ -90,7 +90,7 @@ uid: 54816efd-d1b7-4063-918c-70575a5785cf
 | 问题            | 关键词/关键概念                                                                                                       |
 | ------------- | -------------------------------------------------------------------------------------------------------------- |
 | 什么是聚合，什么是聚合根？ | **聚合Aggregate**：一组相关对象的集合、事务一致性边界、整体概念单元<br>**聚合根Aggregate Root**：聚合的唯一入口、对外暴露接口、维护聚合内一致性、如Order是OrderItem的聚合根 |
-![image.png|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2026%2F02%2F01%2F00-24-54-7b3aed7b9689cb541b9ecf9889b08624-202602010024253-bdd47a.png)
+![image.png\|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2026%2F02%2F01%2F00-24-54-7b3aed7b9689cb541b9ecf9889b08624-202602010024253-bdd47a.png)
 
 
 ## 什么是领域事件？

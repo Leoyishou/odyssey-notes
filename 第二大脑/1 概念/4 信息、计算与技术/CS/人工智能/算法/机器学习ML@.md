@@ -167,4 +167,4 @@ https://www.zhihu.com/question/68472622/answer/1781641922
 | 第12章 | 计算学习理论                           | 12.1 [[PAC 学习]], 12.2 [[VC 维]], 12.3 泛化界, 12.4 统计学习理论  |
 | 第13章 | [[强化学习]] | 13.1 强化学习基础, 13.2 马尔可夫决策过程, 13.3 价值迭代与策略迭代, 13.4 Q 学习  |
 | 附录   | -                                | A.1 数学基础, A.2 相关数据集                                    |
-![image.png|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2024%2F07%2F13%2F19-26-24-aac0a26128d5c29c6c4a1a155819cfe8-20240713192623-477bd8.png)
+![image.png\|1000](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2024%2F07%2F13%2F19-26-24-aac0a26128d5c29c6c4a1a155819cfe8-20240713192623-477bd8.png)

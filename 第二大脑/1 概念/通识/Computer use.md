@@ -37,7 +37,7 @@ date modified: 2026-10-30
 3. `approval_policy=never` / `--yolo` 只放松文件和命令沙箱审批，[明确不覆盖 Computer Use](https://learn.chatgpt.com/docs/agent-approvals-security)。企业里的「默认允许」或「Save app approvals」只限制能不能用、能不能保存 Always allow，[不能代替成员自己批准](https://help.openai.com/en/articles/20001510-manage-browser-and-computer-use-in-your-enterprise-workspace)。
 
 
-![[CleanShot 2026-11-18 at 12.16.53@2x.png]]
+![CleanShot 2026-11-18 at 12.16.53@2x.png](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/obsidian-f87c85d05fa71c93e23b12c4274e63f22154b063cc778efb8d01f93530aa317c.png)
 
 
 

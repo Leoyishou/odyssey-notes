@@ -49,7 +49,7 @@ telethon
 |          | 普通群组   | group |       |
 |          | 超级群组   | channel |       |
 |          |        | 话题    | topic |
-![image.png|500](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2024%2F10%2F06%2F16-24-42-d6fd06ee2002b96eb307397f5e435d74-202410061624731-9cf0d0.png)
+![image.png\|500](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2024%2F10%2F06%2F16-24-42-d6fd06ee2002b96eb307397f5e435d74-202410061624731-9cf0d0.png)
 
 ![image.png|1800](https://imagehosting4picgo.oss-cn-beijing.aliyuncs.com/imagehosting/fix-dir%2Fpicgo%2Fpicgo-clipboard-images%2F2024%2F10%2F06%2F16-33-00-98e8d6c058d815ba572dbca41da613b6-202410061633934-677085.png)
 
