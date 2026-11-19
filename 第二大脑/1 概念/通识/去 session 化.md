@@ -19,7 +19,6 @@ date modified: 2026-11-19
 # 🪞Notes
 
 
-## 核心观点
 
 “去 session 化”的意思是：**session 只用来承载计算，不再用来承载人的注意力。**
 
