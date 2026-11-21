@@ -8,7 +8,7 @@ uid: d79d8e8f-c36e-4a65-9ac3-53ef3a869c96
 
 # 语言服务
 
-看你贴的截图，关键线索有两点：底部状态栏左下角显示 **Java: Ready**，设置界面里还在显示 `java.configuration.runtimes`，但你实际打开的是 `.py` 文件。这说明 VS Code 在这个工作区里优先激活了 Java 相关扩展 / 语言服务器，导致 Python 的[[语言服务]]没有正常接管（所以 import 上无法跳转到定义）。
+看你贴的截图，关键线索有两点：底部状态栏左下角显示 **Java: Ready**，设置界面里还在显示 `java.configuration.runtimes`，但你实际打开的是 `.py` 文件。这说明 VS Code 在这个工作区里优先激活了 Java 相关扩展 / 语言服务器，导致 Python 的[[LSP]]没有正常接管（所以 import 上无法跳转到定义）。
 
 
 
