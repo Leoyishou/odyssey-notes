@@ -38,7 +38,7 @@ date modified: 2026-10-30
 
 ## 权限问题
 
-1. **只能操作你允许的 App，用某个 App 之前会先问你；没有「任意新 App 第一次也不用点」的开关。** 对某个 App 选 [Always allow](https://learn.chatgpt.com/docs/computer-use) 后，以后的任务可以不再问这一只，也可在 Settings > Computer use > Always-allowed apps 里撤销。官方只写了 Always allow 会面向后续任务；
+1. **Openai只能操作你允许的 App，用某个 App 之前会先问你；没有「任意新 App 第一次也不用点」的开关。** 对某个 App 选 [Always allow](https://learn.chatgpt.com/docs/computer-use) 后，以后的任务可以不再问这一只，也可在 Settings > Computer use > Always-allowed apps 里撤销。官方只写了 Always allow 会面向后续任务；
 2. **敏感或破坏性操作还可能再问一次**，官方没有提供把这类确认全部预授权掉的开关；账户、安全、支付、凭证类仍要求人在场。它也不能代点系统隐私框，也不能操作终端或 ChatGPT 自身。
 3. `approval_policy=never` / `--yolo` 只放松文件和命令沙箱审批，[明确不覆盖 Computer Use](https://learn.chatgpt.com/docs/agent-approvals-security)。企业里的「默认允许」或「Save app approvals」只限制能不能用、能不能保存 Always allow，[不能代替成员自己批准](https://help.openai.com/en/articles/20001510-manage-browser-and-computer-use-in-your-enterprise-workspace)。
 
